@@ -16,3 +16,4 @@
 
 ## Общие рекомендации
 Изменить тип перменных total и balance на тип long
+[Результат](https://github.com/Lexx-Psi/Lec1.2-HW1-JavaINT/blob/b5af38025354edae4420d62d48fb3060bb630f4d/balance2.jpg).
