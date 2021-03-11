@@ -13,8 +13,10 @@
 
 1. 100% не успешных тестов с числами более 4 байт
 2. https://github.com/Lexx-Psi/Lec1.2-HW1-JavaINT/issues/1#issue-829203611
-3. 100% результат с числом до 4 байт
-4. 
+3. 100% успешных тестов с числом до 4 байт
+4. https://github.com/Lexx-Psi/Lec1.2-HW1-JavaINT/blob/41ccd32b2a3c0310daa020c4ab1efdb4413c3d20/balance4.jpg
+5. 100% успешных тестов с числами более 4 байт и сменой типа на long
+6. 
 
 ## Общие рекомендации
 Изменить тип перменных total и balance на тип long
